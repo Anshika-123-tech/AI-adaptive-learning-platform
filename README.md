@@ -97,11 +97,12 @@ git add README.md
 git commit -m "Added project README"
 git push
 
-If you want next level 🔥
-I can also:
+<img width="1278" height="900" alt="image" src="https://github.com/user-attachments/assets/52e9902d-02ea-48e6-974f-62b582bdc573" />
+<img width="1241" height="1009" alt="image" src="https://github.com/user-attachments/assets/2d607bb4-a2fc-4091-aea8-aa36339aac9b" />
+<img width="1903" height="699" alt="image" src="https://github.com/user-attachments/assets/c45f8a60-1930-4817-8811-9960b3f97e84" />
+<img width="1439" height="978" alt="image" src="https://github.com/user-attachments/assets/fbe8f415-a608-4f88-b347-22116ee0e38b" />
+<img width="694" height="738" alt="image" src="https://github.com/user-attachments/assets/8e1ccfb3-2372-4737-b870-f6214b945c97" />
 
-Add screenshots section
-Add architecture diagram
-Make it look like a top GitHub portfolio project
 
-Just tell me 👍
+
+
