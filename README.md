@@ -36,10 +36,13 @@ uvicorn main:app --reload
 Backend runs on:
 
 http://127.0.0.1:8000
+
+
 3️⃣ Frontend Setup (React)
 cd client
 npm install
 npm run dev
+
 
 Frontend runs on:
 
